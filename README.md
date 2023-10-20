@@ -1,4 +1,4 @@
-Certainly! Here's the updated `README.md` with emojis:
+
 
 ```markdown
 # Anti-DF: Web Security Toolkit 🔒
