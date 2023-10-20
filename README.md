@@ -1,6 +1,4 @@
 
-
-```markdown
 # Anti-DF: Web Security Toolkit 🔒
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -83,6 +81,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to the open-source community for their valuable contributions.
 - Inspired by web security professionals and researchers.
-```
 
-I've added emojis to make the README more visually appealing.
+
